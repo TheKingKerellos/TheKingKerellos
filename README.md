@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheKingKerellos
-- 👀 I’m interested in cryptocurrencies
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on cryptocurrencies and linux
+- 👀 I’m interested in android roms and development
+- 🌱 I’m currently learning python and linux cli
+- 💞️ I’m looking to collaborate on roms and linux
 - 📫 My other account is TheKingLol
 
 <!---
