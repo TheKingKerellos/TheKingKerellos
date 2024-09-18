@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheKingKerellos
-- 👀 I’m interested in android roms and development
-- 🌱 I’m currently porting a handful of ROMs to my Samsung S4
-- 💞️ I’m looking to collaborate on roms and linux
+- 👀 I’m interested in linux development
+- 🌱 I’m currently following the linux from scrach book
+- 💞️ I’m looking to expand knowledge on teamwork
 - 📫 My other account is TheKingLol
 
 <!---
